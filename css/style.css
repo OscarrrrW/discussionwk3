@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(146, 193, 240);
+    font-family: Arial, sans-serif;
+}
+
+.zihe_header {
+    font-weight: bold;
+    color: rgb(147, 21, 21);
+}
+
+.juice {
+    width: 50%;
+    height: auto;
+    border: 2px solid rgb(185, 146, 74);
+}
